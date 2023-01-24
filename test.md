@@ -1,1 +1,1 @@
-changed text file in feature branch
+text file was editted in newBranch
