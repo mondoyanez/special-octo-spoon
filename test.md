@@ -1,1 +1,1 @@
-text file was editted in newBranch
+text file was editted in new-branch
